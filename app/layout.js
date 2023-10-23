@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar";
 const poppins = Poppins({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
-  title: "Kapture by SarthakXO",
+  title: "klik by SarthakXO",
   description: "A photography portfolio by SarthakXO",
 };
 
